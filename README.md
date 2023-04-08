@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/elmenemyosif" target="blank"><img src="https://img.shields.io/twitter/follow/elmenemyosif?logo=twitter&style=for-the-badge" alt="elmenemyosif" /></a> </p>
 
-- 🌱 I’m currently learning : architectures in flutter**
+- 🌱 I’m currently learning :** architectures in flutter**
 
 - 💬 Ask me about **flutter**
 
