@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **flutter**
   
-- 🔭 I’m currently working At **NEOP**
+- 🔭 I’m currently Looking for a job as Flutter Developer
   
 - 📫 How to reach me **youssefabdelmonem2000@gmail.com**
 
