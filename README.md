@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Youssef Abdelmonem Ramadan</h1>
-<h3 align="center">A passionate Mobile Application Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefabdelmonem&label=Profile%20views&color=0e75b6&style=flat" alt="youssefabdelmonem" /> </p>
 
@@ -7,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/elmenemyosif" target="blank"><img src="https://img.shields.io/twitter/follow/elmenemyosif?logo=twitter&style=for-the-badge" alt="elmenemyosif" /></a> </p>
 
-
-- 💬 Ask me about **flutter**
   
 - 🔭 I’m currently Looking for a job as Flutter Developer
   
