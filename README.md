@@ -1,30 +1,69 @@
-<h1 align="center">Hello 👋, I'm Youssef Abdelmonem Ramadan</h1>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefabdelmonem&label=Profile%20views&color=0e75b6&style=flat" alt="youssefabdelmonem" /> </p>
+# Youssef Abdelmonem Ramadan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefabdelmonem" alt="youssefabdelmonem" /></a> </p>
+**Software Engineer · Flutter · Clean Architecture · Learning Go & Spring Boot**
 
-<p align="left"> <a href="https://twitter.com/elmenemyosif" target="blank"><img src="https://img.shields.io/twitter/follow/elmenemyosif?logo=twitter&style=for-the-badge" alt="elmenemyosif" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-abdelmonem-56a3bb1a2)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elmenemyosif)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefabdelmonem2000@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=youssefabdelmonem&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/youssefabdelmonem)
 
-  
-- 🔭 I’m currently Working As a Flutter Developer
-  
-- 📫 How to reach me **youssefabdelmonem2000@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elmenemyosif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmenemyosif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssef-abdelmonem-56a3bb1a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-abdelmonem-56a3bb1a2" height="30" width="40" /></a>
-<a href="https://fb.com/elmatdor.yosif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elmatdor.yosif" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧑‍💻 About Me
 
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+I'm a software engineer specializing in mobile development with **Flutter**. I design and build production-grade applications following **Clean Architecture** principles, solid **state management** (BLoC / Cubit/ Provider/ Riverpod), and well-structured codebases that scale. I leverage AI-powered tools like **Claude Code** to accelerate development without compromising engineering standards.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefabdelmonem&show_icons=true&locale=en&layout=compact" alt="youssefabdelmonem" /></p>
+Currently expanding into **backend & systems development** — learning **Go** for high-performance services and **Java Spring Boot** for enterprise-grade backend systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefabdelmonem&show_icons=true&locale=en" alt="youssefabdelmonem" /></p>
+- 🔭 Currently working as a **Flutter Developer**
+- 🏗️ Focused on **software design, architecture patterns, and writing maintainable code**
+- 📚 Learning **Go** & **Java Spring Boot** to become a more well-rounded engineer
+- 🤖 Exploring **AI-augmented development** 
+- 🌍 Open to opportunities in **Germany & Europe**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefabdelmonem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefabdelmonem&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefabdelmonem&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="42%" alt="Top Languages" />
+
+</div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefabdelmonem&" alt="youssefabdelmonem" /></p>
+
+<div align="center">
+
+*Building better apps, one widget at a time.*
+
+</div>
