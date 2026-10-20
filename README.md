@@ -14,7 +14,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/elmenemyosif)
 [![Location](https://img.shields.io/badge/Germany_%F0%9F%87%A9%F0%9F%87%AA-EU_Work_Permit-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white)](#-lets-connect)
 
-<img src="https://komarev.com/ghpvc/?username=youssefabdelmonem&label=Profile%20Views&color=02569B&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=youssefabdelmonem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -180,7 +180,7 @@ Brand growth and engagement platform — manage channels, **schedule posts** and
 
 **Backend, Services & Design**
 
-<img src="https://skillicons.dev/icons?i=firebase,gcp,spring,figma,androidstudio,xcode,vscode&theme=dark" alt="Services & tools" />
+<img src="https://skillicons.dev/icons?i=firebase,gcp,spring,figma,androidstudio,vscode&theme=dark" alt="Services & tools" />
 
 **Workflow & Delivery**
 
